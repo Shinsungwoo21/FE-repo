@@ -38,7 +38,7 @@
 
 # 💾 ERD
 
-<img width="1279" alt="Datebase" src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/9fbf3553-1a60-4d6b-8872-b4e50c09cddf">
+<img width="1279" alt="Datebase" src="https://github.com/user-attachments/assets/39841802-99ca-4f0a-9421-a1b2953ba81c">
 
 
 
