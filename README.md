@@ -55,6 +55,23 @@
 
 
 
+# 🗂️ Directory Structure
+
+<details>
+  <summary>Frontend</summary>
+</details>
+
+
+<details>
+  <summary>Backend</summary>
+</details>
+
+
+
+
+
+
+
 
 
 
