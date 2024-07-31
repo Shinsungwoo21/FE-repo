@@ -63,34 +63,221 @@
     <code>
       📦frontend  
       ┣ 📂.github  
-      ┣ 📂public  
-      ┗ 📂src  
-      ┃ ┣ 📂assets  
-      ┃ ┃ ┣ 📜lottie.json 
-      ┃ ┃ ┗ 📜react.svg  
-      ┃ ┣ 📂componets  
-      ┃ ┃ ┣ 📜CreateStoryModal.tsx 
-      ┃ ┃ ┣ 📜ForceGraph.jsx 
-      ┃ ┃ ┣ 📜ImgCarousel.tsx 
-      ┃ ┃ ┣ 📜Navbar.tsx
-      ┃ ┃ ┣ 📜NicknameModal.tsx 
-      ┃ ┃ ┣ 📜Onboarding1.tsx 
-      ┃ ┃ ┣ 📜Onboarding2.tsx
-      ┃ ┃ ┣ 📜Onboarding3.tsx
-      ┃ ┃ ┣ 📜Onboarding4.tsx
-      ┃ ┃ ┣ 📜RootModal.tsx
-      ┃ ┃ ┣ 📜ScenarioModal.tsx
-      ┃ ┃ ┣ 📜StoryModal.tsx
-      ┃ ┃ ┣ 📜Swiper.tsx
-      ┃ ┃ ┗ 📜ThreeParticles.tsx
-      ┃ ┣ 📂pages  
-      ┃ ┣ 📂recoil 
-      ┃ ┃ ┗ 📜atoms.tsx 
-      ┃ ┣ 📜App.css 
-      ┃ ┣ 📜App.tsx  
-      ┃ ┣ 📜index.css
-      ┃ ┣ 📜main.css  
-      ┗ ┗ 📜vite-env.d.ts 
+      ┣ 📂dist
+      ┃  ┣ 📂assets
+      ┃  ┃  ┣ 📜backgroundBaek-BpeExazP.svg
+      ┃  ┃  ┣ 📜backgroundGreen-Bnbts40_.svg
+      ┃  ┃  ┣ 📜backgroundOh-1gcBrXJE.svg
+      ┃  ┃  ┣ 📜backgroundShin-CcjkscEZ.svg
+      ┃  ┃  ┣ 📜Baek-COCTo-04.svg
+      ┃  ┃  ┣ 📜baek_mentorChatBubble-DijFPC_6.svg
+      ┃  ┃  ┣ 📜bakcgroundMusic2-UhNMuIBI.mp3
+      ┃  ┃  ┣ 📜button_pressed-CzxTsqlN.mp3
+      ┃  ┃  ┣ 📜CardBaek-DrBdoS2g.svg
+      ┃  ┃  ┣ 📜CharBaek-HZRdnelM.svg
+      ┃  ┃  ┣ 📜CharOh-CEkf53wz.svg
+      ┃  ┃  ┣ 📜CharShin-BPbn4s-a.svg
+      ┃  ┃  ┣ 📜chatbubble-DYku0HZm.png
+      ┃  ┃  ┣ 📜choose-UyHchCCZ.mp3
+      ┃  ┃  ┣ 📜ChoosingButtonBaek-CjLdFOGc.svg
+      ┃  ┃  ┣ 📜ChoosingButtonOh-CAJzv0hE.svg
+      ┃  ┃  ┣ 📜click_effect-CrkPjc3w.mp3
+      ┃  ┃  ┣ 📜flipcard-C-SIaE8h.mp3
+      ┃  ┃  ┣ 📜fromBaek-DT0BLmko.svg
+      ┃  ┃  ┣ 📜fromOh-DO2UuJGk.svg
+      ┃  ┃  ┣ 📜fromShin-B6bB3TrY.svg
+      ┃  ┃  ┣ 📜groupLogo-UiVsXh0O.svg
+      ┃  ┃  ┣ 📜IconLetter-Bf5kXeAo.svg
+      ┃  ┃  ┣ 📜IconMouse-Den-z3Fg.svg
+      ┃  ┃  ┣ 📜IconToHome-BBGs1vYo.svg
+      ┃  ┃  ┣ 📜index-Cj_By1DR.js
+      ┃  ┃  ┣ 📜index-DayvVuVL.css
+      ┃  ┃  ┣ 📜mobile_prescriptionimg-C3exaAV2.svg
+      ┃  ┃  ┣ 📜MoonFlower-BpPDa5mm.ttf
+      ┃  ┃  ┣ 📜mouse-DWajUTj1.mp3
+      ┃  ┃  ┣ 📜MyPageBackground-DekmgsB7.svg
+      ┃  ┃  ┣ 📜NoticiaText-Dxyt17E8.ttf
+      ┃  ┃  ┣ 📜oh-BzLDIxT2.svg
+      ┃  ┃  ┣ 📜oh_mentorChatBubble-7h2WrPM4.svg
+      ┃  ┃  ┣ 📜PostBox-DZ6XiAZk.svg
+      ┃  ┃  ┣ 📜PostOffice-B9Fm3m3d.mp3
+      ┃  ┃  ┣ 📜prescriptionimg-CO1W0rsR.svg
+      ┃  ┃  ┣ 📜ProfileBackBaek-BDgtaFl5.svg
+      ┃  ┃  ┣ 📜ProfileBackOh-DHArOrGF.svg
+      ┃  ┃  ┣ 📜ProfileBackShin-UicqqSC4.svg
+      ┃  ┃  ┣ 📜redButtonBaek-BRTcfWeM.svg
+      ┃  ┃  ┣ 📜redButtonOh-C7l3dlAU.svg
+      ┃  ┃  ┣ 📜redButtonShin-YJdHy-Ah.svg
+      ┃  ┃  ┣ 📜shin-Dkk0NJtx.svg
+      ┃  ┃  ┣ 📜shin_mentorChatBubble-DWAYkhJ7.svg
+      ┃  ┃  ┗ 📜syndinaroo-Bs3PV56G.ttf
+      ┃  ┗ 📜index.html 
+      ┣ 📂src
+      ┃   ┣ 📂api
+      ┃   ┃ ┗ 📜.gitkeep
+      ┃   ┣ 📂assets
+      ┃   ┃ ┣ 📂audios
+      ┃   ┃ ┃ ┣ 📜bakcgroundMusic2.mp3
+      ┃   ┃ ┃ ┣ 📜button.mp3
+      ┃   ┃ ┃ ┣ 📜button_pressed.mp3
+      ┃   ┃ ┃ ┣ 📜choose.mp3
+      ┃   ┃ ┃ ┣ 📜click_effect.mp3
+      ┃   ┃ ┃ ┣ 📜flipcard.mp3
+      ┃   ┃ ┃ ┣ 📜mainMusic.mp3
+      ┃   ┃ ┃ ┣ 📜mouse.mp3
+      ┃   ┃ ┃ ┣ 📜PostOffice.mp3
+      ┃   ┃ ┃ ┣ 📜prescriptionPageAudio.mp3
+      ┃   ┃ ┃ ┣ 📜toy_button.mp3
+      ┃   ┃ ┃ ┗ 📜ui_click.mp3
+      ┃   ┃ ┣ 📂fonts
+      ┃   ┃ ┃ ┣ 📜MoonFlower.ttf
+      ┃   ┃ ┃ ┣ 📜NoticiaText.ttf
+      ┃   ┃ ┃ ┗ 📜syndinaroo.ttf
+      ┃   ┃ ┗ 📂images
+      ┃   ┃ ┃ ┣ 📜.gitkeep
+      ┃   ┃ ┃ ┣ 📜404.svg
+      ┃   ┃ ┃ ┣ 📜AllLetter.svg
+      ┃   ┃ ┃ ┣ 📜backgroundBaek.svg
+      ┃   ┃ ┃ ┣ 📜backgroundBeach.svg
+      ┃   ┃ ┃ ┣ 📜backgroundForest.svg
+      ┃   ┃ ┃ ┣ 📜backgroundGreen.svg
+      ┃   ┃ ┃ ┣ 📜BackgroundMentorPage.svg
+      ┃   ┃ ┃ ┣ 📜backgroundOh.svg
+      ┃   ┃ ┃ ┣ 📜backgroundShin.svg
+      ┃   ┃ ┃ ┣ 📜Baek.svg
+      ┃   ┃ ┃ ┣ 📜baek_mentorChatBubble.svg
+      ┃   ┃ ┃ ┣ 📜CardBaek.svg
+      ┃   ┃ ┃ ┣ 📜CardOh.svg
+      ┃   ┃ ┃ ┣ 📜CardShin.svg
+      ┃   ┃ ┃ ┣ 📜CharBaek.svg
+      ┃   ┃ ┃ ┣ 📜CharOh.svg
+      ┃   ┃ ┃ ┣ 📜CharShin.svg
+      ┃   ┃ ┃ ┣ 📜chatbubble.png
+      ┃   ┃ ┃ ┣ 📜ChoosingButtonBaek.svg
+      ┃   ┃ ┃ ┣ 📜ChoosingButtonOh.svg
+      ┃   ┃ ┃ ┣ 📜ChoosingButtonShin.svg
+      ┃   ┃ ┃ ┣ 📜eveningSky.svg
+      ┃   ┃ ┃ ┣ 📜fromBaek.svg
+      ┃   ┃ ┃ ┣ 📜fromOh.svg
+      ┃   ┃ ┃ ┣ 📜fromShin.svg
+      ┃   ┃ ┃ ┣ 📜groupLogo.svg
+      ┃   ┃ ┃ ┣ 📜IconLetter.svg
+      ┃   ┃ ┃ ┣ 📜IconMouse.svg
+      ┃   ┃ ┃ ┣ 📜IconToHome.svg
+      ┃   ┃ ┃ ┣ 📜IconToMyPage.svg
+      ┃   ┃ ┃ ┣ 📜leaf.svg
+      ┃   ┃ ┃ ┣ 📜leftArrow.svg
+      ┃   ┃ ┃ ┣ 📜loading.png
+      ┃   ┃ ┃ ┣ 📜mail.svg
+      ┃   ┃ ┃ ┣ 📜mailback.svg
+      ┃   ┃ ┃ ┣ 📜mailfront.svg
+      ┃   ┃ ┃ ┣ 📜mobile_prescriptionimg.svg
+      ┃   ┃ ┃ ┣ 📜mousePointer.svg
+      ┃   ┃ ┃ ┣ 📜mud.jpg
+      ┃   ┃ ┃ ┣ 📜MyPageBackground.svg
+      ┃   ┃ ┃ ┣ 📜oh.svg
+      ┃   ┃ ┃ ┣ 📜oh_mentorChatBubble.svg
+      ┃   ┃ ┃ ┣ 📜PostBox.svg
+      ┃   ┃ ┃ ┣ 📜prescriptionimg.svg
+      ┃   ┃ ┃ ┣ 📜ProfileBackBaek.svg
+      ┃   ┃ ┃ ┣ 📜ProfileBackOh.svg
+      ┃   ┃ ┃ ┣ 📜ProfileBackShin.svg
+      ┃   ┃ ┃ ┣ 📜ProfileFrontBaek.svg
+      ┃   ┃ ┃ ┣ 📜ProfileFrontOh.svg
+      ┃   ┃ ┃ ┣ 📜ProfileFrontShin.svg
+      ┃   ┃ ┃ ┣ 📜Racoon.svg
+      ┃   ┃ ┃ ┣ 📜RectIntro.svg
+      ┃   ┃ ┃ ┣ 📜redButtonAll.svg
+      ┃   ┃ ┃ ┣ 📜redButtonBaek.svg
+      ┃   ┃ ┃ ┣ 📜redButtonOh.svg
+      ┃   ┃ ┃ ┣ 📜redButtonShin.svg
+      ┃   ┃ ┃ ┣ 📜rightArrow.svg
+      ┃   ┃ ┃ ┣ 📜scrollMessage.svg
+      ┃   ┃ ┃ ┣ 📜shin.svg
+      ┃   ┃ ┃ ┣ 📜shin_mentorChatBubble.svg
+      ┃   ┃ ┃ ┣ 📜welcomeBackground.svg
+      ┃   ┃ ┃ ┣ 📜welcomeLogo.svg
+      ┃   ┃ ┃ ┗ 📜yellowDog.svg
+      ┃   ┣ 📂components
+      ┃   ┃ ┣ 📂chat
+      ┃   ┃ ┃ ┣ 📜ChatContainer.tsx
+      ┃   ┃ ┃ ┣ 📜ChatInput.tsx
+      ┃   ┃ ┃ ┣ 📜MentorChatBubble.tsx
+      ┃   ┃ ┃ ┗ 📜MyChatBubble.tsx
+      ┃   ┃ ┣ 📂FirstPage
+      ┃   ┃ ┃ ┣ 📜Button.tsx
+      ┃   ┃ ┃ ┣ 📜CharIntro1.css
+      ┃   ┃ ┃ ┣ 📜CharIntro1.tsx
+      ┃   ┃ ┃ ┣ 📜CharIntro2.css
+      ┃   ┃ ┃ ┣ 📜CharIntro2.tsx
+      ┃   ┃ ┃ ┣ 📜EveningSky.css
+      ┃   ┃ ┃ ┣ 📜EveningSky.tsx
+      ┃   ┃ ┃ ┣ 📜Input.tsx
+      ┃   ┃ ┃ ┣ 📜LoginPage.css
+      ┃   ┃ ┃ ┣ 📜LoginPage.tsx
+      ┃   ┃ ┃ ┣ 📜StartButton.tsx
+      ┃   ┃ ┃ ┣ 📜WelcomePage.css
+      ┃   ┃ ┃ ┗ 📜WelcomePage.tsx
+      ┃   ┃ ┣ 📂MentorChatBubble
+      ┃   ┃ ┃ ┣ 📜CharacterImage.tsx
+      ┃   ┃ ┃ ┣ 📜ChatBubble.tsx
+      ┃   ┃ ┃ ┣ 📜ChatMessage.tsx
+      ┃   ┃ ┃ ┗ 📜MentorName.tsx
+      ┃   ┃ ┣ 📂MyChatBubble
+      ┃   ┃ ┃ ┣ 📜MyChatBubble.tsx
+      ┃   ┃ ┃ ┣ 📜MyChatMessage.tsx
+      ┃   ┃ ┃ ┗ 📜MyName.tsx
+      ┃   ┃ ┣ 📂PostText
+      ┃   ┃ ┃ ┣ 📜HightlightText.tsx
+      ┃   ┃ ┃ ┗ 📜ImageWithText.tsx
+      ┃   ┃ ┣ 📜.gitkeep
+      ┃   ┃ ┣ 📜CustomCursor.tsx
+      ┃   ┃ ┗ 📜LoadingModal.tsx
+      ┃   ┣ 📂hooks
+      ┃   ┃ ┗ 📜.gitkeep
+      ┃   ┣ 📂pages
+      ┃   ┃ ┣ 📂ChattingPage
+      ┃   ┃ ┃ ┣ 📜ChattingPage_Baek.tsx
+      ┃   ┃ ┃ ┣ 📜ChattingPage_Oh.tsx
+      ┃   ┃ ┃ ┗ 📜ChattingPage_Shin.tsx
+      ┃   ┃ ┣ 📜FirstPage.tsx
+      ┃   ┃ ┣ 📜MentorPage.tsx
+      ┃   ┃ ┣ 📜Mobile_MyPage.tsx
+      ┃   ┃ ┣ 📜Mobile_PrescriptionPage.tsx
+      ┃   ┃ ┣ 📜MyPage.tsx
+      ┃   ┃ ┣ 📜NotFoundPage.tsx
+      ┃   ┃ ┗ 📜PrescriptionPage.tsx
+      ┃   ┣ 📂store
+      ┃   ┃ ┗ 📜store.ts
+      ┃   ┣ 📂utils
+      ┃   ┃ ┗ 📜.gitkeep
+      ┃   ┣ 📜App.css
+      ┃   ┣ 📜App.tsx
+      ┃   ┣ 📜index.css
+      ┃   ┣ 📜main.tsx
+      ┃   ┣ 📜theme.ts
+      ┃   ┣ 📜ThemeContext.tsx
+      ┃   ┗ 📜vite-env.d.ts
+      ┣ 📜.DS_Store
+      ┣ 📜.env
+      ┣ 📜.env.development
+      ┣ 📜.env.local
+      ┣ 📜.env.production
+      ┣ 📜.env.test
+      ┣ 📜.gitignore
+      ┣ 📜index.html
+      ┣ 📜leaf_favicon.ico
+      ┣ 📜package-lock.json
+      ┣ 📜package.json
+      ┣ 📜postcss.config.js
+      ┣ 📜README.md
+      ┣ 📜store.ts
+      ┣ 📜tailwind.config.js
+      ┣ 📜tsconfig.app.json
+      ┣ 📜tsconfig.json
+      ┣ 📜tsconfig.node.json
+      ┣ 📜vite.config.ts
+      ┗ 📜yarn.lock 
     </code>
   </pre>
 </details>
