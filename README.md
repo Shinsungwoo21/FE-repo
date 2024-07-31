@@ -61,7 +61,7 @@
   <summary>Frontend</summary>
    <pre>
     <code>
-      📦frontend  
+      📦Frontend  
       ┣ 📂.github  
       ┣ 📂dist
       ┃  ┣ 📂assets
