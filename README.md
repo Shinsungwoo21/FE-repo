@@ -338,7 +338,6 @@
       ┣ 📜manage.py
       ┗ 📜requirements.txt
 
-
     </code>
   </pre>
 </details>
