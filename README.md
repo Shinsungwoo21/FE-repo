@@ -11,7 +11,7 @@
 |**신문엽 멘토링 페이지**|**로딩 페이지**|
 |<img width="390" height="220" alt="Mentoring Page3" src="https://github.com/user-attachments/assets/b28773c6-abfc-4df3-93d5-3c8830a52a92">|<img width="390" height="220" alt="Loading Page" src="https://github.com/user-attachments/assets/03ba7993-b58d-4a9c-a597-af455ef6efd6">|
 |**처방전 페이지**|**마이 페이지**|
-|<img width="390" height="220" alt="Prescription Page" src="https://github.com/user-attachments/assets/0aa48400-c56d-4f66-ad31-c7cf7b7357e8">|<img width="390" height="220" alt="My Page" src="">|
+|<img width="390" height="220" alt="Prescription Page" src="https://github.com/user-attachments/assets/0aa48400-c56d-4f66-ad31-c7cf7b7357e8">|<img width="390" height="220" alt="My Page" src="https://github.com/user-attachments/assets/1e9555ef-d92f-4ffb-b42b-46ca9e2ac2e1">|
 
 
 
