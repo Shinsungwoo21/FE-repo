@@ -16,7 +16,7 @@
 
 
 ## 💻 System Architechture
-<img alt="system architecture" src="https://github.com/A-Interview/.github/assets/132477328/f3456c26-1e03-469e-9d85-d801d9f03490">
+<img alt="system architecture" src="https://github.com/user-attachments/assets/759698f3-ed07-4d56-a59d-41e09f62aab4">
 
 
 
