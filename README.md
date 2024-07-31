@@ -287,58 +287,95 @@
   <summary>Backend</summary>
   <pre>
     <code>
-      📦backend
-      ┣ 📂backend
-      ┃ ┣ 📜__init__.py
-      ┃ ┣ 📜asgi.py
-      ┃ ┣ 📜celery.py
-      ┃ ┣ 📜settings.py
-      ┃ ┣ 📜url.py
-      ┃ ┗ 📜wsgi.py
-      ┗ 📂data
-      ┃ ┣ 📂grafana
-      ┃ ┗ 📂prometheus
-      ┗ 📂logging
-      ┃ ┣ 📂filebeat
-      ┃ ┗ 📂logstash
-      ┗ 📂neo_db
-      ┃ ┣ 📂migrations
-      ┃ ┣ 📜__init__.py
-      ┃ ┣ 📜admin.py
-      ┃ ┣ 📜apps.py
-      ┃ ┣ 📜models.py
-      ┃ ┣ 📜serializers.py
-      ┃ ┣ 📜tests.py
-      ┃ ┗ 📜view.py
-      ┗ 📂story
-      ┃ ┣ 📂migrations
-      ┃ ┣ 📜__init__.py
-      ┃ ┣ 📜admin.py
-      ┃ ┣ 📜apps.py
-      ┃ ┣ 📜image_generation_logic.py
-      ┃ ┣ 📜models.py
-      ┃ ┣ 📜serializers.py
-      ┃ ┣ 📜tasks.py
-      ┃ ┣ 📜tests.py
-      ┃ ┣ 📜urls.py
-      ┃ ┗ 📜view.py
-      ┗ 📂user
-      ┃ ┣ 📂migrations
-      ┃ ┣ 📜__init__.py
-      ┃ ┣ 📜admin.py
-      ┃ ┣ 📜apps.py
-      ┃ ┣ 📜models.py
-      ┃ ┣ 📜serializers.py
-      ┃ ┣ 📜tests.py
-      ┃ ┣ 📜urls.py
-      ┃ ┗ 📜view.py
+      📦Backend
+      ┣ 📂.github
+      ┣ 📂alertmanager
+      ┃   ┣ 📂tmp
+      ┃   ┣ 📜alertmanager.yml.tmpl
+      ┃   ┗ 📜entrypoint.sh
+      ┣ 📂app
+      ┃  ┣ 📂crud
+      ┃  ┃ ┣ 📂__pycache__
+      ┃  ┃ ┃  ┣ 📜chat.cpython-312.pyc
+      ┃  ┃ ┃  ┣ 📜chatroom.cpython-312.pyc
+      ┃  ┃ ┃  ┣ 📜mentor.cpython-312.pyc
+      ┃  ┃ ┃  ┣ 📜prescription.cpython-312.pyc
+      ┃  ┃ ┃  ┗ 📜user.cpython-312.pyc
+      ┃  ┃ ┣ 📜chat.py
+      ┃  ┃ ┣ 📜chatroom.py
+      ┃  ┃ ┣ 📜mentor.py
+      ┃  ┃ ┣ 📜prescription.py
+      ┃  ┃ ┗ 📜user.py
+      ┃  ┣ 📂routers
+      ┃  ┃ ┣ 📂__pycache__
+      ┃  ┃ ┃ ┣ 📜chat.cpython-312.pyc
+      ┃  ┃ ┃ ┣ 📜chatroom.cpython-312.pyc
+      ┃  ┃ ┃ ┣ 📜mentor.cpython-312.pyc
+      ┃  ┃ ┃ ┣ 📜prescription.cpython-312.pyc
+      ┃  ┃ ┃ ┣ 📜root.cpython-312.pyc
+      ┃  ┃ ┃ ┗ 📜user.cpython-312.pyc
+      ┃  ┃ ┣ 📜chat.py
+      ┃  ┃ ┣ 📜chatroom.py
+      ┃  ┃ ┣ 📜mentor.py
+      ┃  ┃ ┣ 📜prescription.py
+      ┃  ┃ ┣ 📜root.py
+      ┃  ┃ ┗ 📜user.py
+      ┃  ┣ 📂templates
+      ┃  ┃ ┗ 📜index.html
+      ┃  ┣ 📂tests
+      ┃  ┃ ┣ 📜conftest.py
+      ┃  ┃ ┣ 📜test_api_chatroom.py
+      ┃  ┃ ┣ 📜test_api_mentor.py
+      ┃  ┃ ┣ 📜test_api_prescription.py
+      ┃  ┃ ┣ 📜test_api_user.py
+      ┃  ┃ ┣ 📜test_crud_chat.py
+      ┃  ┃ ┣ 📜test_crud_chatroom.py
+      ┃  ┃ ┣ 📜test_crud_mentor.py
+      ┃  ┃ ┣ 📜test_crud_prescription.py
+      ┃  ┃ ┣ 📜test_crud_user.py
+      ┃  ┃ ┣ 📜test_router_chatroom.py
+      ┃  ┃ ┣ 📜test_router_mentor.py
+      ┃  ┃ ┣ 📜test_router_prescription.py
+      ┃  ┃ ┗ 📜test_router_user.py
+      ┃  ┣ 📂utils
+      ┃  ┃ ┣ 📂__pycache__
+      ┃  ┃ ┃ ┣ 📜celery_worker.cpython-312.pyc
+      ┃  ┃ ┃ ┣ 📜gpt.cpython-312.pyc
+      ┃  ┃ ┃ ┗ 📜opensearch.cpython-312.pyc
+      ┃  ┃ ┣ 📜celery_worker.py
+      ┃  ┃ ┣ 📜gpt.py
+      ┃  ┃ ┗ 📜opensearch.py
+      ┃  ┣ 📂__pycache__
+      ┃  ┃ ┣ 📜database.cpython-312.pyc
+      ┃  ┃ ┣ 📜formatter.cpython-312.pyc
+      ┃  ┃ ┣ 📜log_config.cpython-312.pyc
+      ┃  ┃ ┣ 📜main.cpython-312.pyc
+      ┃  ┃ ┣ 📜models.cpython-312.pyc
+      ┃  ┃ ┗ 📜schemas.cpython-312.pyc
+      ┃  ┣ 📜database.py
+      ┃  ┣ 📜formatter.py
+      ┃  ┣ 📜log.ini
+      ┃  ┣ 📜log_config.py
+      ┃  ┣ 📜main.py
+      ┃  ┣ 📜models.py
+      ┃  ┣ 📜schemas.py
+      ┃  ┗ 📜__init__.py 
+      ┣ 📂prometheus
+      ┃  ┣ 📂alert-rules.yml
+      ┃  ┣ 📂prometheus.yml
+      ┣ 📜.gitignore
       ┣ 📜Dockerfile
-      ┣ 📜init_data.json
-      ┣ 📜load_neo4j_data.py
-      ┣ 📜manage.py
-      ┗ 📜requirements.txt
-      </code>
-    </pre>
+      ┣ 📜Dockerfile.flower
+      ┣ 📜Dockerfile.worker
+      ┣ 📜README.md
+      ┣ 📜docker-compose.prod.yml
+      ┣ 📜docker-compose.yml
+      ┣ 📜nginx.conf
+      ┣ 📜requirements.txt
+      ┣ 📜requirements.worker.txt
+      ┗ 📜run_prod.sh
+    </code>
+  </pre>
 </details>
 
 
