@@ -9,7 +9,7 @@
 |**오은양 멘토링 페이지**|**백곰원 멘토링 페이지**|
 |<img width="390" alt="Mentoring Page1" src="https://github.com/user-attachments/assets/a557c38d-b122-4d8e-8ab3-d58996b18cb8">|<img width="390" alt="Mentoring Page1" src="https://github.com/user-attachments/assets/03ba7993-b58d-4a9c-a597-af455ef6efd6">|
 |**신문엽 멘토링 페이지**|**로딩 페이지**|
-|||
+||<img width="390" alt="Mentoring Page1" src="https://github.com/user-attachments/assets/03ba7993-b58d-4a9c-a597-af455ef6efd6">|
 |**처방전 페이지**|**마이 페이지**|
 |||
 
