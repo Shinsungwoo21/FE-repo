@@ -2,7 +2,7 @@
 # 여기는 Readme 제작을 위한 테커 부트캠프 J팀 대비용 입니다.
 
 
-## 📹 Demo
+# 📹 Demo
 |**로그인 페이지**|**멘토 선택 페이지**|
 |:-------------------:|:---------:|
 |<img width="390" alt="Login Page" src="https://github.com/user-attachments/assets/153569c2-28ad-4c1c-bd36-819c3902eae1">|<img width="390" height="220" alt="Mentor Page" src="https://github.com/user-attachments/assets/c239ffcb-94aa-4794-bf12-25a3a8712852">|
@@ -15,13 +15,13 @@
 
 
 
-## 💻 System Architechture
+# 💻 System Architechture
 <img alt="system architecture" src="https://github.com/user-attachments/assets/759698f3-ed07-4d56-a59d-41e09f62aab4">
 
 
 
 
-## 💡 Tech stack 
+# 💡 Tech stack 
 <br>
 <div align =center>
 
