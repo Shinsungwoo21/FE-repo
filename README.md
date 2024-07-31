@@ -287,6 +287,58 @@
   <summary>Backend</summary>
   <pre>
     <code>
+      📦backend
+      ┣ 📂backend
+      ┃ ┣ 📜__init__.py
+      ┃ ┣ 📜asgi.py
+      ┃ ┣ 📜celery.py
+      ┃ ┣ 📜settings.py
+      ┃ ┣ 📜url.py
+      ┃ ┗ 📜wsgi.py
+      ┗ 📂data
+      ┃ ┣ 📂grafana
+      ┃ ┗ 📂prometheus
+      ┗ 📂logging
+      ┃ ┣ 📂filebeat
+      ┃ ┗ 📂logstash
+      ┗ 📂neo_db
+      ┃ ┣ 📂migrations
+      ┃ ┣ 📜__init__.py
+      ┃ ┣ 📜admin.py
+      ┃ ┣ 📜apps.py
+      ┃ ┣ 📜models.py
+      ┃ ┣ 📜serializers.py
+      ┃ ┣ 📜tests.py
+      ┃ ┗ 📜view.py
+      ┗ 📂story
+      ┃ ┣ 📂migrations
+      ┃ ┣ 📜__init__.py
+      ┃ ┣ 📜admin.py
+      ┃ ┣ 📜apps.py
+      ┃ ┣ 📜image_generation_logic.py
+      ┃ ┣ 📜models.py
+      ┃ ┣ 📜serializers.py
+      ┃ ┣ 📜tasks.py
+      ┃ ┣ 📜tests.py
+      ┃ ┣ 📜urls.py
+      ┃ ┗ 📜view.py
+      ┗ 📂user
+      ┃ ┣ 📂migrations
+      ┃ ┣ 📜__init__.py
+      ┃ ┣ 📜admin.py
+      ┃ ┣ 📜apps.py
+      ┃ ┣ 📜models.py
+      ┃ ┣ 📜serializers.py
+      ┃ ┣ 📜tests.py
+      ┃ ┣ 📜urls.py
+      ┃ ┗ 📜view.py
+      ┣ 📜Dockerfile
+      ┣ 📜init_data.json
+      ┣ 📜load_neo4j_data.py
+      ┣ 📜manage.py
+      ┗ 📜requirements.txt
+
+
     </code>
   </pre>
 </details>
