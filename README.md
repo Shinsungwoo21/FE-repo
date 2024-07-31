@@ -41,7 +41,7 @@
 <img width="1290" height="500" alt="Datebase" src="https://github.com/user-attachments/assets/39841802-99ca-4f0a-9421-a1b2953ba81c">
 
 
-# 📄 Swagger
+# 📄 API
 
 ![API](https://github.com/user-attachments/assets/ae098d61-ed7d-445b-95b2-c2253b70a8d1)
 
