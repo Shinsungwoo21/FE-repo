@@ -9,9 +9,9 @@
 |**오은양 멘토링 페이지**|**백곰원 멘토링 페이지**|
 |<img width="390" height="220" alt="Mentoring Page1" src="https://github.com/user-attachments/assets/a557c38d-b122-4d8e-8ab3-d58996b18cb8">|<img width="390" height="220" alt="Mentoring Page2" src="https://github.com/user-attachments/assets/0c57abe6-64f9-4de7-b3a0-931f54f6121c">|
 |**신문엽 멘토링 페이지**|**로딩 페이지**|
-|<img width="390" alt="Mentoring Page3" src="">|<img width="390" alt="Loading Page" src="https://github.com/user-attachments/assets/03ba7993-b58d-4a9c-a597-af455ef6efd6">|
+|<img width="390" height="220" alt="Mentoring Page3" src="">|<img width="390" height="220" alt="Loading Page" src="https://github.com/user-attachments/assets/03ba7993-b58d-4a9c-a597-af455ef6efd6">|
 |**처방전 페이지**|**마이 페이지**|
-|<img width="390" alt="Prescription Page" src="https://github.com/user-attachments/assets/0aa48400-c56d-4f66-ad31-c7cf7b7357e8">|<img width="390" alt="My Page" src="">|
+|<img width="390" height="220" alt="Prescription Page" src="https://github.com/user-attachments/assets/0aa48400-c56d-4f66-ad31-c7cf7b7357e8">|<img width="390" height="220" alt="My Page" src="">|
 
 
 
