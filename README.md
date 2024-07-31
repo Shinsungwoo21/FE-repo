@@ -43,7 +43,7 @@
 
 # 📄 Swagger
 
-![image](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/ed18964e-578f-4d4f-8cde-e5f1cdbc045b)
+![API](https://github.com/user-attachments/assets/ae098d61-ed7d-445b-95b2-c2253b70a8d1)
 
 
 
