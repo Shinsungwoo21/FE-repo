@@ -6,7 +6,7 @@
 ## 📌 Table of Contents
 - [Medium](#-Medium)
 - [Demo](#-Demo)
-- [System Architecture](#-System-architecture)
+- [System Architecture](#System-Architecture)
 - [Tech stack](#-Tech-stack)
 - [ERD](#-Erd)
 - [API](#-API)
