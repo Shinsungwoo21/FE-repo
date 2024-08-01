@@ -3,7 +3,7 @@
 ##### <p align = center> URL : https://forest-of-thoughts.site <p>
 <br>
 
-## 📌Table of Contents
+## 📌 Table of Contents
 - [Medium](#-Medium)
 - [Demo](#-Demo)
 - [System Architecture](#-System-Architecture)
