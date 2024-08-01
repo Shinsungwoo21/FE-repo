@@ -18,7 +18,7 @@
 <br>
 
 ## 📋 Medium
-[말해봐요 고민의 숲](https://medium.com/@bong.u.dev/2024-siliconvalley-summer-bootcamp-%EB%A7%90%ED%95%B4%EB%B4%90%EC%9A%94-%EA%B3%A0%EB%AF%BC%EC%9D%98-%EC%88%B2-b539ba51a814)
+  🔖 [말해봐요 고민의 숲](https://medium.com/@bong.u.dev/2024-siliconvalley-summer-bootcamp-%EB%A7%90%ED%95%B4%EB%B4%90%EC%9A%94-%EA%B3%A0%EB%AF%BC%EC%9D%98-%EC%88%B2-b539ba51a814)
 
 </br>
 
