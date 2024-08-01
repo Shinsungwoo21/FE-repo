@@ -3,9 +3,9 @@
 ##### <p align = center> URL : https://forest-of-thoughts.site <p>
 <br>
 
-## 📚Table of Contents
+## 📌 Table of Contents
 - [Medium](#-Medium)
-- [Demo](#demo)
+- [Demo](#-Demo)
 - [System Architecture](#-System-Architecture)
 - [Tech stack](#-Tech-stack)
 - [ERD](#-Erd)
@@ -20,7 +20,7 @@
 ## 📋 Medium
 [말해봐요 고민의 숲](https://medium.com/@bong.u.dev/2024-siliconvalley-summer-bootcamp-%EB%A7%90%ED%95%B4%EB%B4%90%EC%9A%94-%EA%B3%A0%EB%AF%BC%EC%9D%98-%EC%88%B2-b539ba51a814)
 
-<br>
+
 
 ## 📽️ Demo
 |**로그인 페이지**|**멘토 선택 페이지**|
