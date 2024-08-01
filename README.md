@@ -71,14 +71,14 @@
   </tr>
   <tr>
     <td align="center">Nginx Dashboard</td>
-    <td align="center">Rabbitmq Dashboard</td>
+    <td align="center">RabbitMQ Dashboard</td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/de1f834d-59f1-4409-9b44-6b4899112302" alt="Nginx Dashboard" style="width: 400px; height: 200px;">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5560a6b9-2d14-4f65-aef7-b78fd6dbec98" alt="Rabbitmq Dashboard" style="width: 400px; height: 200px;">
+      <img src="https://github.com/user-attachments/assets/5560a6b9-2d14-4f65-aef7-b78fd6dbec98" alt="RabbitMQ Dashboard" style="width: 400px; height: 200px;">
     </td>
   </tr>
 </table>
