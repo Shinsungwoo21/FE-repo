@@ -15,7 +15,7 @@
 
 
 
-# 💻 System Architechture
+# ⚙️ System Architechture
 <img alt="system architecture" src="https://github.com/user-attachments/assets/9466298d-680a-414a-b942-7d0e2ff75067">
 
 
@@ -36,7 +36,7 @@
 
 
 
-# 💾 ERD
+# 💎 ERD
 
 <img width="1290" height="500" alt="Datebase" src="https://github.com/user-attachments/assets/39841802-99ca-4f0a-9421-a1b2953ba81c">
 
