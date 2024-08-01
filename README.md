@@ -9,19 +9,18 @@
 - [System Architechture](#-System-Architechture)
 - [Tech stack](#-Tech-stack)
 - [ERD](#-Erd)
-- [Neo4j](#-Neo4j)
 - [API](#-API)
 - [Monitoring](#-Monitoring)
-- [File Directory](#-file-directory)
 - [How to Start](#-How-to-Start)
 - [Directory Structure](#-Directory-Structure)
-- [Member](#-Member)
+- [Members](#-Members)
 
 <br>
 
 ## 📋 Medium
 
 
+<br>
 
 ## 📽️ Demo
 |**로그인 페이지**|**멘토 선택 페이지**|
