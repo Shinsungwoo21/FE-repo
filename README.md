@@ -16,7 +16,7 @@
 
 
 # ⚙️ System Architechture
-<img alt="system architecture" src="https://github.com/user-attachments/assets/9466298d-680a-414a-b942-7d0e2ff75067">
+<img alt="system architecture" src="https://github.com/user-attachments/assets/bd544a39-1b21-42c8-8d62-da1de315e4bc">
 
 
 
