@@ -1,5 +1,7 @@
 # <p align = center> 🌳 말해봐요 고민의 숲 🌳 <p>
-
+### <p align = center> 2024 Techeer Summer SoftWare BootCamp <p>
+<div align=center>
+<br> <image width=50%, height=50%, src="https://github.com/A-Interview/.github/assets/132477328/42d28b62-63b9-44ca-b9e2-5f70ab59c309">
 
 
 ## 📽️ Demo
