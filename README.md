@@ -2,7 +2,7 @@
 # 여기는 Readme 제작을 위한 테커 부트캠프 J팀 대비용 입니다.
 
 
-# 📽️ Demo
+## 📽️ Demo
 |**로그인 페이지**|**멘토 선택 페이지**|
 |:-------------------:|:---------:|
 |<img width="390" height="220" alt="Login Page" src="https://github.com/user-attachments/assets/153569c2-28ad-4c1c-bd36-819c3902eae1">|<img width="390" height="220" alt="Mentor Page" src="https://github.com/user-attachments/assets/c239ffcb-94aa-4794-bf12-25a3a8712852">|
@@ -15,7 +15,7 @@
 
 
 
-# ⚙️ System Architechture
+## 🖥️ System Architechture
 <img alt="system architecture" src="https://github.com/user-attachments/assets/bd544a39-1b21-42c8-8d62-da1de315e4bc">
 
 
@@ -36,26 +36,27 @@
 
 
 
-# 💎 ERD
+## 💎 ERD
 
 <img width="1290" height="500" alt="Datebase" src="https://github.com/user-attachments/assets/39841802-99ca-4f0a-9421-a1b2953ba81c">
 
 
-# 📄 API
+## 📙 API
 
 ![API](https://github.com/user-attachments/assets/ae098d61-ed7d-445b-95b2-c2253b70a8d1)
 
 
-# 🔬 Monitoring
+## 🔬 Monitoring
+Grafana
 
 
 
-# 🧑‍💻 How to Start
+## 🧑‍💻 How to Start
 
 
 
 
-# 🗂️ Directory Structure
+## 🗂️ Directory Structure
 
 <details>
   <summary>Frontend</summary>
@@ -378,7 +379,7 @@
   </pre>
 </details>
 
-# 👨‍👩‍👧‍👦 Members
+## 👨‍👩‍👧‍👦 Members
 <table width="100%" align="center" style="border-collapse: collapse; text-align: center;">
 <thead>
 <tr>
