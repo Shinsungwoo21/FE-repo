@@ -18,7 +18,7 @@
 <br>
 
 ## 📋 Medium
-
+https://medium.com/@bong.u.dev/2024-siliconvalley-summer-bootcamp-%EB%A7%90%ED%95%[…]%90%EC%9A%94-%EA%B3%A0%EB%AF%BC%EC%9D%98-%EC%88%B2-b539ba51a814
 
 <br>
 
