@@ -33,7 +33,7 @@
 |**처방전 페이지**|**마이 페이지**|
 |<img width="390" height="220" alt="Prescription Page" src="https://github.com/user-attachments/assets/0aa48400-c56d-4f66-ad31-c7cf7b7357e8">|<img width="390" height="220" alt="My Page" src="https://github.com/user-attachments/assets/1e9555ef-d92f-4ffb-b42b-46ca9e2ac2e1">|
 
-<br>
+
 
 ## 🖥️ System Architecture
 
@@ -155,7 +155,7 @@ yarn add
 ```
 yarn dev
 ```
-</br>
+<br>
 
 
 
