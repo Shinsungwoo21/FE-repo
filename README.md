@@ -6,7 +6,7 @@
 ## 📌Table of Contents
 - [Medium](#-Medium)
 - [Demo](#-Demo)
-- [System Architechture](#-System-Architechture)
+- [System Architecture](#-System-Architecture)
 - [Tech stack](#-Tech-stack)
 - [ERD](#-Erd)
 - [API](#-API)
@@ -29,7 +29,7 @@
 
 
 
-## 🖥️ System Architechture
+## 🖥️ System Architecture
 <img alt="system architecture" src="https://github.com/user-attachments/assets/bd544a39-1b21-42c8-8d62-da1de315e4bc">
 
 
