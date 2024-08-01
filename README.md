@@ -47,7 +47,6 @@
 
 
 ## 🔬 Monitoring
-### Grafana
 <table align="center" style="border-collapse: collapse;">
    <tr>
     <td colspan="2" align="center">Docker Dashboard</td>
