@@ -4,15 +4,15 @@
 <br>
 
 ## 📌 Table of Contents
-- [Medium](#-Medium)
-- [Demo](#-Demo)
-- [System Architecture](#System-Architecture)
+- [Medium](#-medium)
+- [Demo](#-demo)
+- [System Architecture](#system-architecture)
 - [Tech stack](#-Tech-stack)
 - [ERD](#-Erd)
 - [API](#-API)
 - [Monitoring](#-Monitoring)
 - [How to Start](#-How-to-Start)
-- [Directory Structure](#-Directory-Structure)
+- [Directory Structure](#-directory-structure)
 - [Members](#-Members)
 
 
