@@ -379,7 +379,7 @@
 </details>
 
 # 👨‍👩‍👧‍👦 Members
-<table width="100%" align="center" style="border-collapse: collapse; text-align: center;">
+<table width="100%" height="100%" align="center" style="border-collapse: collapse; text-align: center;">
 <thead>
 <tr>
 <th>Profiles</th>
