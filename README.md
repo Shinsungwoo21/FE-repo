@@ -35,7 +35,7 @@
 
 
 
-## 🖥️ System Architecture
+## 🚨 System Architecture
 
 <img alt="system architecture" src="https://github.com/user-attachments/assets/bd544a39-1b21-42c8-8d62-da1de315e4bc">
 
