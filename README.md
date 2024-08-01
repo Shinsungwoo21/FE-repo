@@ -127,6 +127,7 @@ git clone https://github.com/2024-Summer-Bootcamp-TeamJ/Frontend.git
 ### Install
 ```
 yarn install
+yarn add
 ```
 
 ### Run
