@@ -1,5 +1,5 @@
 # <p align = center> 🌳 말해봐요 고민의 숲 🌳 <p>
-### <p align = center> 2024 Techeer Summer SoftWare BootCamp <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=50%, height=50%, src="https://github.com/user-attachments/assets/fa618082-0629-4c78-9f9e-81a5318fd0a2"> <p>
+### <p align = center> 2024 Techeer Summer SoftWare BootCamp <br> &nbsp;&nbsp;&nbsp;&nbsp;<img width=50%, height=50%, src="https://github.com/user-attachments/assets/fa618082-0629-4c78-9f9e-81a5318fd0a2"> <p>
 
 
 ## 📽️ Demo
