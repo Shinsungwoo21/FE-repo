@@ -35,7 +35,7 @@
 |<img width="390" height="220" alt="Prescription Page" src="https://github.com/user-attachments/assets/0aa48400-c56d-4f66-ad31-c7cf7b7357e8">|<img width="390" height="220" alt="My Page" src="https://github.com/user-attachments/assets/1e9555ef-d92f-4ffb-b42b-46ca9e2ac2e1">|
 
 
-
+<br>
 ## 🖥️ System Architecture
 
 <img alt="system architecture" src="https://github.com/user-attachments/assets/bd544a39-1b21-42c8-8d62-da1de315e4bc">
