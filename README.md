@@ -3,17 +3,19 @@
 ##### <p align = center> URL : https://forest-of-thoughts.site <p>
 <br>
 
-## 📌 Table of Contents
+## 📚Table of Contents
 - [Medium](#-Medium)
-- [Demo](#Demo)
-- [System Architecture](#system-architecture)
+- [Demo](#-Demo)
+- [System Architechture](#-System-Architechture)
 - [Tech stack](#-Tech-stack)
 - [ERD](#-Erd)
+- [Neo4j](#-Neo4j)
 - [API](#-API)
 - [Monitoring](#-Monitoring)
+- [File Directory](#-file-directory)
 - [How to Start](#-How-to-Start)
-- [Directory Structure](#-directory-structure)
-- [Members](#-Members)
+- [Directory Structure](#-Directory-Structure)
+- [Member](#-Member)
 
 
 ## 📽️ Demo
